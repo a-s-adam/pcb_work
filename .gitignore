@@ -1,2 +1,3 @@
 # Ignore all .lck files
 *.lck
+\#auto_saved_files#
