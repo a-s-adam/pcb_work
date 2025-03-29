@@ -1,0 +1,109 @@
+{
+    "contentPatches": {
+        "1.content.beta.mac.1.0.1": {
+            "file": "1.content.beta.mac.1.0.1.zip",
+            "md5": "4e6910680b2bd8d8669ff2d338ca3950",
+            "extracted_size": 38161607
+        },
+        "1.content.beta.mac.1.0.2": {
+            "file": "1.content.beta.mac.1.0.2.zip",
+            "md5": "60720f5ad7cc359c95418db3079d7dfe",
+            "extracted_size": 31593084
+        },
+        "1.content.beta.mac.1.0.3": {
+            "file": "1.content.beta.mac.1.0.3.zip",
+            "md5": "53d1240879bbb727a29ba3123a78b98d",
+            "extracted_size": 38801201
+        },
+        "1.content.beta.mac.2.0.2": {
+            "file": "1.content.beta.mac.2.0.2.zip",
+            "md5": "ae21cc2b4a62505476d44dc061ee7a45",
+            "extracted_size": 68013282
+        },
+        "1.content.beta.mac.3.0.1": {
+            "file": "1.content.beta.mac.3.0.1.zip",
+            "md5": "902ed1e70582044fd5a6f0aeeabe656f",
+            "extracted_size": 62782622
+        },
+        "1.content.beta.mac.3.0.2": {
+            "file": "1.content.beta.mac.3.0.2.zip",
+            "md5": "2717b76bab9e28c5518ac4227be626db",
+            "extracted_size": 15601713
+        },
+        "1.content.beta.mac.4.0.3": {
+            "file": "1.content.beta.mac.4.0.3.zip",
+            "md5": "24bb89dc12797aa9f5e41d6ac88882b2",
+            "extracted_size": 92657402
+        },
+        "1.content.beta.mac.5.0.1": {
+            "file": "1.content.beta.mac.5.0.1.zip",
+            "md5": "21d0b8693003c24d160c12d79cecb13a",
+            "extracted_size": 46066882
+        },
+        "1.content.beta.mac.6.0.1": {
+            "file": "1.content.beta.mac.6.0.1.zip",
+            "md5": "66d0de126f0e49d02e1b9ff437e8eb47",
+            "extracted_size": 22717485
+        },
+        "1.content.beta.mac.7.0.1": {
+            "file": "1.content.beta.mac.7.0.1.zip",
+            "md5": "f2396f357c24cb60bbe62247d0a42b91",
+            "extracted_size": 79917631
+        },
+        "1.content.beta.mac.7.0.2": {
+            "file": "1.content.beta.mac.7.0.2.zip",
+            "md5": "e02d395262be679bfff07460f9420e46",
+            "extracted_size": 25663380
+        },
+        "1.content.ml.mac.8.0.1": {
+            "file": "1.content.ml.mac.8.0.1.zip",
+            "md5": "1565c503389b50ec48d96d06e380255b",
+            "extracted_size": 87615758
+        },
+        "1.content.ml.mac.8.0.2": {
+            "file": "1.content.ml.mac.8.0.2.zip",
+            "md5": "e6d179ad92c54336df88198485743f83",
+            "extracted_size": 15345578
+        },
+        "1.content.beta.mac.8.0.3": {
+            "file": "1.content.beta.mac.8.0.3.zip",
+            "md5": "928f04f3a66746a98e78520e741ae89e",
+            "extracted_size": 38509435
+        },
+        "1.content.beta.mac.9.0.1": {
+            "file": "1.content.beta.mac.9.0.1.zip",
+            "md5": "ad3c0b933e715ef3408e316d02b0f736",
+            "extracted_size": 65734319
+        },
+        "1.content.beta.mac.12.0.1": {
+            "file": "1.content.beta.mac.12.0.1.zip",
+            "md5": "8ef8db4f809caf39796d98eb8d336172",
+            "extracted_size": 31941523
+        },
+        "1.content.beta.mac.12.0.2": {
+            "file": "1.content.beta.mac.12.0.2.zip",
+            "md5": "5d8e74a8849b26351a6157ce21e4f816",
+            "extracted_size": 86964042
+        },
+        "1.content.beta.mac.12.0.3": {
+            "file": "1.content.beta.mac.12.0.3.zip",
+            "md5": "1832aee3e6c2f03b68b69818a1704ed1",
+            "extracted_size": 28691232
+        },
+        "1.content.beta.mac.16.0.1": {
+            "file": "1.content.beta.mac.16.0.1.zip",
+            "md5": "79b867c38dfe3f2ca1abaa5585abbe98",
+            "extracted_size": 108292633
+        },
+        "1.content.beta.mac.17.0.1": {
+            "file": "1.content.beta.mac.17.0.1.zip",
+            "md5": "a435267e0deee1b03a68da945ecf2f8e",
+            "extracted_size": 56843120
+        },
+        "1.content.beta.mac.18.0.1": {
+            "file": "1.content.beta.mac.18.0.1.zip",
+            "md5": "030069724e20f1c3c92f31fa82b8cf1e",
+            "extracted_size": 96309485
+        }
+    }
+}
