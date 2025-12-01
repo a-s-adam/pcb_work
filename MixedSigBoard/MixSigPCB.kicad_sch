@@ -94,6 +94,255 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "MountingHole_1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_1_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MountingHole_2"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_2_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MountingHole_3"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_3_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "[4] DAC"
 		(exclude_from_sim no)
@@ -280,6 +529,7 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_2")
 		(lib_id "Mechanical:MountingHole")
 		(at 25.4 180.34 0)
 		(unit 1)
@@ -343,6 +593,7 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_3")
 		(lib_id "Mechanical:MountingHole")
 		(at 25.4 186.69 0)
 		(unit 1)
@@ -406,6 +657,7 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_1")
 		(lib_id "Mechanical:MountingHole")
 		(at 25.4 173.99 0)
 		(unit 1)
@@ -493,7 +745,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "../../../Downloads/MixSigCourse-B-KiCad7-Files/Power.kicad_sch"
+		(property "Sheetfile" "Power.kicad_sch"
 			(at 81.28 88.2146 0)
 			(effects
 				(font
@@ -503,7 +755,7 @@
 			)
 		)
 		(instances
-			(project "Nemesis-MixSigPCB"
+			(project "MixSigPCB"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9"
 					(page "5")
 				)
@@ -535,7 +787,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "../../../Downloads/MixSigCourse-B-KiCad7-Files/MCU.kicad_sch"
+		(property "Sheetfile" "MCU.kicad_sch"
 			(at 170.18 88.2146 0)
 			(effects
 				(font
@@ -545,7 +797,7 @@
 			)
 		)
 		(instances
-			(project "Nemesis-MixSigPCB"
+			(project "MixSigPCB"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9"
 					(page "4")
 				)
@@ -577,7 +829,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "../../../Downloads/MixSigCourse-B-KiCad7-Files/ADC.kicad_sch"
+		(property "Sheetfile" "ADC.kicad_sch"
 			(at 81.28 151.7146 0)
 			(effects
 				(font
@@ -587,7 +839,7 @@
 			)
 		)
 		(instances
-			(project "Nemesis-MixSigPCB"
+			(project "MixSigPCB"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9"
 					(page "2")
 				)
@@ -619,7 +871,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "../../../Downloads/MixSigCourse-B-KiCad7-Files/DAC.kicad_sch"
+		(property "Sheetfile" "DAC.kicad_sch"
 			(at 170.18 151.7146 0)
 			(effects
 				(font
@@ -629,7 +881,7 @@
 			)
 		)
 		(instances
-			(project "Nemesis-MixSigPCB"
+			(project "MixSigPCB"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9"
 					(page "3")
 				)
