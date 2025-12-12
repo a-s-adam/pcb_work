@@ -10675,7 +10675,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PhilsLab_Footprints_KiCad6:CMC-1206"
+		(property "Footprint" "MixSig_Footprints_KiCad6:CMC-1206"
 			(at 222.25 125.73 0)
 			(effects
 				(font

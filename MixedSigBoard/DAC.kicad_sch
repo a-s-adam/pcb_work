@@ -2743,7 +2743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PhilsLab_Footprints_KiCad6:VSSOP-10"
+		(property "Footprint" "MixSig_Footprints_KiCad6:VSSOP-10"
 			(at 88.9 105.41 0)
 			(effects
 				(font
@@ -4090,7 +4090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PhilsLab_Footprints_KiCad6:AMPHENOL-BNC-031-5640-1010"
+		(property "Footprint" "MixSig_Footprints_KiCad6:AMPHENOL-BNC-031-5640-1010"
 			(at 243.84 95.25 0)
 			(effects
 				(font
