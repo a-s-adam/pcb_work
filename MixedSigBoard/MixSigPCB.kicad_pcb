@@ -1639,7 +1639,7 @@
 			(uuid "68afe98e-6d3d-493a-a9e7-9405877d2263")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/phili/OneDrive/Electrical/STEP FILES/BNC-31-5640-1010.stp"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/31-5640-1010.stp"
 			(offset
 				(xyz 0 30.15 8)
 			)
@@ -13285,15 +13285,15 @@
 			(uuid "632ac261-8902-4056-86d2-aa4b97479394")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.step"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/HRO_TYPE-C-31-M-12.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -4.45 -3.9 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -14083,7 +14083,7 @@
 	(footprint "MixSig_Footprints_KiCad6:CMC-1206"
 		(layer "F.Cu")
 		(uuid "9592cab6-3d2d-43fc-9c8f-20b59929d1fd")
-		(at 207.675 122.95)
+		(at 141.175 84.45)
 		(property "Reference" "L2"
 			(at 0 -3 0)
 			(unlocked yes)
@@ -14186,7 +14186,7 @@
 			(uuid "98f91230-a494-4681-b07d-14f09f5461c4")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/phili/OneDrive/Electrical/STEP FILES/CMC-1206.step"
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/Coilcraft-1206CS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16853,7 +16853,7 @@
 			(uuid "5a26caa1-94cc-4122-9a22-d68839c89a85")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/phili/OneDrive/Electrical/STEP FILES/MWSA0603S.STEP"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/IND_MWSA0603S_SNL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18008,7 +18008,7 @@
 	(footprint "LED_SMD:LED_Avago_PLCC4_3.2x2.8mm_CW"
 		(layer "F.Cu")
 		(uuid "c3132788-aba1-4634-884e-674107c78fb8")
-		(at 131.57 114.31)
+		(at 171.5 111.695)
 		(descr "3.2mm x 2.8mm PLCC4 RGB LED, https://docs.broadcom.com/docs/AV02-4186EN")
 		(tags "LED Avago PLCC-4 3528 ASMB-MTB0-0A3A2")
 		(property "Reference" "D3"
@@ -18072,7 +18072,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e42ddd58-a4ef-47b5-a612-10228c7ef3ab")
+			(uuid "0bebbc02-38fc-4e65-add5-c943cecbd1df")
 		)
 		(fp_line
 			(start -2.5 1.6)
@@ -18082,7 +18082,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5f3444a1-ae85-47cc-9748-b83dea63b623")
+			(uuid "3be123af-490d-4759-8c57-a10c90138a03")
 		)
 		(fp_line
 			(start -2.2 -1.6)
@@ -18092,7 +18092,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "2ea49538-b938-4f20-87d7-36fd02cc781f")
+			(uuid "210db66e-3511-462f-b37c-1d1e83558294")
 		)
 		(fp_line
 			(start -2.2 -1.6)
@@ -18102,7 +18102,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "358bbeb4-56f4-4e02-901d-0ba1e713d541")
+			(uuid "da986316-0162-464e-807d-3391a8855dbd")
 		)
 		(fp_line
 			(start 2.5 1.6)
@@ -18112,7 +18112,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9f01fbe2-a663-4320-a45a-cf422ba34846")
+			(uuid "a93ea83f-d18f-4484-9328-ea377b34147b")
 		)
 		(fp_line
 			(start -2.5 -1.65)
@@ -18122,7 +18122,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5ae89848-c2f3-40c4-ae40-6cbf3b2258a5")
+			(uuid "5ec8f93d-c879-4a63-a312-dad374d02d7d")
 		)
 		(fp_line
 			(start -2.5 -1.65)
@@ -18132,7 +18132,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bf833365-7b2d-4c83-a503-43b9b8cee1b7")
+			(uuid "14d9cadc-50c7-41e4-ba95-20429a1eadce")
 		)
 		(fp_line
 			(start 2.5 1.65)
@@ -18142,7 +18142,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4f285496-2c39-4919-83e0-e7de4ece6d41")
+			(uuid "39068cfe-c8a3-4fb3-9058-a7a91d32ecd1")
 		)
 		(fp_line
 			(start 2.5 1.65)
@@ -18152,7 +18152,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bdb531a4-574a-43d3-93a7-2faaa2ad3092")
+			(uuid "e7e3dee9-e48a-401f-8298-04a206c5fdd8")
 		)
 		(fp_line
 			(start -1.6 -1.4)
@@ -18162,7 +18162,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5d2b9bde-08dd-4ceb-96ee-9b8b513720b1")
+			(uuid "aa5a2104-f261-4a7d-9c0f-434790c04e40")
 		)
 		(fp_line
 			(start -1.6 1.4)
@@ -18172,7 +18172,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "52048443-6028-430c-9624-38bd1c674e57")
+			(uuid "95cdb118-964b-425c-9add-3e9c41b02a81")
 		)
 		(fp_line
 			(start -0.6 -1.4)
@@ -18182,7 +18182,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "53010253-4abb-4bf0-aa2d-20a3e711afef")
+			(uuid "8aec8396-ba4a-4411-a964-b4260b6759cf")
 		)
 		(fp_line
 			(start 1.6 -1.4)
@@ -18192,7 +18192,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5dc8ca57-2af5-46b1-b0a0-d36b3b3d61bd")
+			(uuid "82be1089-9b14-4873-98f4-51977c2d9ebd")
 		)
 		(fp_line
 			(start 1.6 1.4)
@@ -18202,7 +18202,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f13e297b-d0e5-4d52-ab90-6fef80b1052d")
+			(uuid "b1d44d66-51b8-41cd-9a49-f3e2bb62d2c1")
 		)
 		(fp_circle
 			(center 0 0)
@@ -18213,7 +18213,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "cc0b5467-c3ac-4d2f-b0f2-2dbeeb92bc08")
+			(uuid "95fe8396-45a6-4b70-b45c-1303fe81ede0")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -18263,7 +18263,7 @@
 			(uuid "0d9b281c-b557-46c0-b5a3-4da2ab1fdc46")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Avago_PLCC4_3.2x2.8mm_CW.step"
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/PLCC4.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25291,7 +25291,7 @@
 			(uuid "b9a3498a-12f3-4a74-b722-227825626b5b")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/phili/OneDrive/Electrical/STEP FILES/BNC-31-5640-1010.stp"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/31-5640-1010.stp"
 			(offset
 				(xyz 0 30.15 8)
 			)
