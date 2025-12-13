@@ -1,75 +1,10 @@
-# ---- KiCad 9 Project Files to Ignore ----
-
-# Auto-save files
-*.kicad_sch-bak
-*.kicad_pcb-bak
-*-autosave.kicad_sch
-*-autosave.kicad_pcb
-auto_save/
-autosave/
-*auto_save*
-*autosave*
-
-# Backup / recovery
+*-autosave*
 *.bak
 *.tmp
-*.tmp-bak
-
-# KiCad 3D cache & temp
-*.step-cache
-*.stp-cache
-*.3dshapes/*.wrl
-*.3dshapes/*-WRL/
-
-# Simulation outputs
-*.raw
-*.log
-*.cir
-*.out
-*.spiceinit
-
-# Gerbers / Fab outputs
-*.gbr
-*.gtl
-*.gbl
-*.gts
-*.gbs
-*.gto
-*.gbo
-*.drl
-*.pos
-*.svg
-*.pdf
-*.dsn
-*.ipc
-
-# Plot and export output
-*.pdf
-*.ps
-*.png
-export/
-plots/
-
-# Netlists & report output
-*.xml
+*-cache.lib
 *.net
-*.rpt
-
-# KiCad-specific generated files
-fp-info-cache
-sym-lib-table-bak
-fp-lib-table-bak
-
-# Lock files
-*.lck
-*.lock
-*.kicad_pcb-bak
-*.kicad_sch-bak
-
-# Python plugins cache
-__pycache__/
-*.pyc
-
-# OS files
+*.drl
+*.gbr*
+*.pos
+*.kicad_prl
 .DS_Store
-Thumbs.db

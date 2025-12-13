@@ -3387,7 +3387,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006273c2f2")
-		(property "Reference" "U10"
+		(property "Reference" "U101"
 			(at 114.3 53.34 0)
 			(effects
 				(font
@@ -3457,7 +3457,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "U10")
+					(reference "U101")
 					(unit 1)
 				)
 			)
@@ -3472,7 +3472,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006274c9aa")
-		(property "Reference" "C40"
+		(property "Reference" "C103"
 			(at 101.6 66.04 0)
 			(effects
 				(font
@@ -3531,7 +3531,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "C40")
+					(reference "C103")
 					(unit 1)
 				)
 			)
@@ -3546,7 +3546,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006274d959")
-		(property "Reference" "C41"
+		(property "Reference" "C104"
 			(at 134.62 66.04 0)
 			(effects
 				(font
@@ -3605,7 +3605,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "C41")
+					(reference "C104")
 					(unit 1)
 				)
 			)
@@ -3691,7 +3691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006277fe2f")
-		(property "Reference" "C37"
+		(property "Reference" "C100"
 			(at 43.18 66.04 0)
 			(effects
 				(font
@@ -3750,7 +3750,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "C37")
+					(reference "C100")
 					(unit 1)
 				)
 			)
@@ -3766,7 +3766,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000062782c16")
-		(property "Reference" "C38"
+		(property "Reference" "C101"
 			(at 68.58 66.04 0)
 			(effects
 				(font
@@ -3825,7 +3825,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "C38")
+					(reference "C101")
 					(unit 1)
 				)
 			)
@@ -3982,7 +3982,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006278e9bd")
-		(property "Reference" "R31"
+		(property "Reference" "R100"
 			(at 91.44 54.61 90)
 			(effects
 				(font
@@ -4039,7 +4039,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "R31")
+					(reference "R100")
 					(unit 1)
 				)
 			)
@@ -4054,7 +4054,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627a2619")
-		(property "Reference" "U11"
+		(property "Reference" "U102"
 			(at 252.73 64.77 0)
 			(effects
 				(font
@@ -4123,7 +4123,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "U11")
+					(reference "U102")
 					(unit 1)
 				)
 			)
@@ -4138,7 +4138,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627a2625")
-		(property "Reference" "C45"
+		(property "Reference" "C108"
 			(at 240.03 54.61 90)
 			(effects
 				(font
@@ -4197,7 +4197,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "C45")
+					(reference "C108")
 					(unit 1)
 				)
 			)
@@ -4494,7 +4494,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627b68ca")
-		(property "Reference" "R35"
+		(property "Reference" "R104"
 			(at 223.52 60.96 0)
 			(effects
 				(font
@@ -4553,7 +4553,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "R35")
+					(reference "R104")
 					(unit 1)
 				)
 			)
@@ -4568,7 +4568,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627bdb51")
-		(property "Reference" "R36"
+		(property "Reference" "R105"
 			(at 223.52 71.12 0)
 			(effects
 				(font
@@ -4627,7 +4627,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "R36")
+					(reference "R105")
 					(unit 1)
 				)
 			)
@@ -4642,7 +4642,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627bf39b")
-		(property "Reference" "C44"
+		(property "Reference" "C107"
 			(at 236.22 71.12 0)
 			(effects
 				(font
@@ -4701,7 +4701,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "C44")
+					(reference "C107")
 					(unit 1)
 				)
 			)
@@ -4787,7 +4787,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627d0ae8")
-		(property "Reference" "U9"
+		(property "Reference" "U100"
 			(at 97.79 104.14 0)
 			(effects
 				(font
@@ -4855,7 +4855,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "U9")
+					(reference "U100")
 					(unit 1)
 				)
 			)
@@ -4870,7 +4870,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627da3b1")
-		(property "Reference" "L4"
+		(property "Reference" "L101"
 			(at 119.38 109.22 90)
 			(effects
 				(font
@@ -4927,7 +4927,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "L4")
+					(reference "L101")
 					(unit 1)
 				)
 			)
@@ -4942,7 +4942,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627dd506")
-		(property "Reference" "C42"
+		(property "Reference" "C105"
 			(at 134.62 116.84 0)
 			(effects
 				(font
@@ -5001,7 +5001,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "C42")
+					(reference "C105")
 					(unit 1)
 				)
 			)
@@ -5016,7 +5016,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627e01f9")
-		(property "Reference" "R32"
+		(property "Reference" "R101"
 			(at 151.13 116.84 0)
 			(effects
 				(font
@@ -5075,7 +5075,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "R32")
+					(reference "R101")
 					(unit 1)
 				)
 			)
@@ -5161,7 +5161,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627e7059")
-		(property "Reference" "C39"
+		(property "Reference" "C102"
 			(at 76.2 116.84 0)
 			(effects
 				(font
@@ -5220,7 +5220,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "C39")
+					(reference "C102")
 					(unit 1)
 				)
 			)
@@ -5235,7 +5235,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627edafb")
-		(property "Reference" "R33"
+		(property "Reference" "R102"
 			(at 151.13 130.81 0)
 			(effects
 				(font
@@ -5294,7 +5294,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "R33")
+					(reference "R102")
 					(unit 1)
 				)
 			)
@@ -5309,7 +5309,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000627ee2b3")
-		(property "Reference" "C43"
+		(property "Reference" "C106"
 			(at 165.1 116.84 0)
 			(effects
 				(font
@@ -5368,7 +5368,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "C43")
+					(reference "C106")
 					(unit 1)
 				)
 			)
@@ -5454,7 +5454,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006282b9cc")
-		(property "Reference" "D9"
+		(property "Reference" "D100"
 			(at 173.99 105.41 0)
 			(effects
 				(font
@@ -5511,7 +5511,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "D9")
+					(reference "D100")
 					(unit 1)
 				)
 			)
@@ -5526,7 +5526,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006283336c")
-		(property "Reference" "R34"
+		(property "Reference" "R103"
 			(at 194.31 116.84 0)
 			(effects
 				(font
@@ -5585,7 +5585,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "R34")
+					(reference "R103")
 					(unit 1)
 				)
 			)
@@ -5672,7 +5672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "221ef5b8-a695-42f2-9848-d6a373f1ef38")
-		(property "Reference" "L3"
+		(property "Reference" "L100"
 			(at 46.99 55.88 90)
 			(effects
 				(font
@@ -5738,7 +5738,7 @@
 			)
 			(project "Power"
 				(path "/c49d23ab-146d-4089-864f-2d22b5b414b9/00000000-0000-0000-0000-000061c5cb7e"
-					(reference "L3")
+					(reference "L100")
 					(unit 1)
 				)
 			)
