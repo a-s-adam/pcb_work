@@ -3589,7 +3589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MixSig_Footprints_KiCad6:VSSOP-10"
+		(property "Footprint" "MixSig_Footprints.pretty:VSSOP-10"
 			(at 130.81 156.21 0)
 			(effects
 				(font
@@ -6542,7 +6542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MixSig_Footprints_KiCad6:AMPHENOL-BNC-031-5640-1010"
+		(property "Footprint" "MixSig_Footprints.pretty:AMPHENOL-BNC-031-5640-1010"
 			(at 45.72 62.23 0)
 			(effects
 				(font

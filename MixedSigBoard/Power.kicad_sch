@@ -4886,7 +4886,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MixSig_Footprints_KiCad6:MWSA0603S"
+		(property "Footprint" "MixSig_Footprints.pretty:MWSA0603S"
 			(at 119.38 111.76 0)
 			(effects
 				(font

@@ -13219,7 +13219,7 @@
 			(net 45 "unconnected-(J201-SHIELD-PadS1)_1")
 			(pinfunction "SHIELD")
 			(pintype "passive+no_connect")
-			(uuid "8bf229f2-e062-42c5-b2ab-995faaec7844")
+			(uuid "39c5706b-9954-4170-88dd-aaaedb8f1cd5")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.13 90)
@@ -13231,7 +13231,7 @@
 			(net 45 "unconnected-(J201-SHIELD-PadS1)_1")
 			(pinfunction "SHIELD")
 			(pintype "passive+no_connect")
-			(uuid "8bf229f2-e062-42c5-b2ab-995faaec7844")
+			(uuid "fb932a95-6c39-4144-a9b7-de6e90764904")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.05 90)
@@ -13243,7 +13243,7 @@
 			(net 45 "unconnected-(J201-SHIELD-PadS1)_1")
 			(pinfunction "SHIELD")
 			(pintype "passive+no_connect")
-			(uuid "8bf229f2-e062-42c5-b2ab-995faaec7844")
+			(uuid "86ed239c-a29f-40d1-8c08-1da6d8463d9a")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/HRO_TYPE-C-31-M-12.step"
@@ -25252,7 +25252,7 @@
 			(uuid "b9a3498a-12f3-4a74-b722-227825626b5b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/31-5640-1010.stp"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/31-5640-1010.step"
 			(offset
 				(xyz 0 30.15 8)
 			)

@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "MixSig_Footprints_KiCad6.pretty")(type "KiCad")(uri "${KIPRJMOD}/MixSig_Footprints_KiCad6.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "MixSig_Footprints.pretty")(type "KiCad")(uri "${KIPRJMOD}/MixSig_Footprints.pretty")(options "")(descr ""))
 )
