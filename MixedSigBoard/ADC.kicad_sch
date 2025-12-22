@@ -3589,7 +3589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MixSig_Footprints.pretty:VSSOP-10"
+		(property "Footprint" "MixSig_Footprints:VSSOP-10"
 			(at 130.81 156.21 0)
 			(effects
 				(font
