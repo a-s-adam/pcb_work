@@ -7087,16 +7087,6 @@
 		)
 		(uuid "162e5bdd-61a8-46a3-8485-826b5d58e1a1")
 	)
-	(label "TIM4_CH2"
-		(at 19.05 170.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "165f4d8d-26a9-4cf2-a8d6-9936cd983be4")
-	)
 	(label "HSE_IN"
 		(at 80.01 74.93 0)
 		(effects
@@ -7187,6 +7177,26 @@
 		)
 		(uuid "5e6153e6-2c19-46de-9a8e-b310a2a07861")
 	)
+	(label "TIM4_CH1"
+		(at 19.05 170.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "602df79e-0385-4e2f-a88d-9a0ac2f0a0bb")
+	)
+	(label "TIM4_CH2"
+		(at 19.05 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "63f213fa-3182-4428-9ed0-f209ca9fdb62")
+	)
 	(label "SWCLK"
 		(at 168.91 163.83 180)
 		(effects
@@ -7246,16 +7256,6 @@
 			(justify left bottom)
 		)
 		(uuid "8e697b96-cf4c-43ef-b321-8c2422b088bf")
-	)
-	(label "TIM4_CH1"
-		(at 19.05 165.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "92a23ed4-a5ea-4cea-bc33-0a83191a0d32")
 	)
 	(label "CONN_NRST"
 		(at 125.73 171.45 0)
