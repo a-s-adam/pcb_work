@@ -8,3 +8,4 @@
 *.pos
 *.kicad_prl
 .DS_Store
+*_autosave*
