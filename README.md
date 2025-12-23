@@ -11,4 +11,9 @@ ATMEGA
 MixSigBoard
 - STM32 Based board with 2 SPI interfaces (ADC,DAC), ADC input, DAC output, a few GPIO's via RGB LED's, and Software Debug (SWD) interface.
 - Analog Bias Generator, anti-aliasing filters, power supply line filtering, USB-C 2.0 compatibility
-- [Work in Progress]
+- Ground via next to all signal vias to give short return path and reduce EMI
+- Fan out of traces where possible to reduce cross talk
+- PHYSICAL separation of analog and digital components (placing A&D components far apart from each other has best results of reducing noise between the two) https://www.youtube.com/watch?v=ySuUZEjARPY
+- Stitching Vias placed throughout board (2.5 mm grid)
+- Silkscreen labeling of circuit portions
+- Included Gerber, BOM, footprints,symbols, drill files
