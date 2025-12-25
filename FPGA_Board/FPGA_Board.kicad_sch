@@ -2,9 +2,141 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 472f09b1-9eb3-4828-aa92-3f9176530a4e)
+	(uuid "472f09b1-9eb3-4828-aa92-3f9176530a4e")
 	(paper "A4")
+	(title_block
+		(title "ZYNQ7000 FPGA BOARD")
+		(date "2025-12-24")
+		(rev "01")
+		(company "AUSTIN ADAM")
+	)
 	(lib_symbols)
+	(sheet
+		(at 97.79 86.36)
+		(size 40.005 31.115)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4ea85d68-8c4c-427b-9eb6-b0d9011553b2")
+		(property "Sheetname" "Zynq_Memory"
+			(at 97.79 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 97.79 118.0596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FPGA_Board"
+				(path "/472f09b1-9eb3-4828-aa92-3f9176530a4e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 97.79 35.56)
+		(size 40.005 31.115)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f26963d8-433e-42e7-9d22-8132c2fbe320")
+		(property "Sheetname" "Zynq_Power"
+			(at 97.79 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 97.79 67.2596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FPGA_Board"
+				(path "/472f09b1-9eb3-4828-aa92-3f9176530a4e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.195 35.56)
+		(size 40.005 31.115)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f4cd9e73-7905-4399-a63a-5ed548e75ca4")
+		(property "Sheetname" "Power"
+			(at 36.195 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 36.195 67.2596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FPGA_Board"
+				(path "/472f09b1-9eb3-4828-aa92-3f9176530a4e"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

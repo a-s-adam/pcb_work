@@ -1,0 +1,367 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "14834d86-f299-4867-ad7c-9010d12480ea")
+	(paper "A4")
+	(title_block
+		(title "ZYNQ7000 FPGA BOARD")
+		(date "2025-12-24")
+		(rev "01")
+		(company "AUSTIN ADAM")
+	)
+	(lib_symbols
+		(symbol "FPGA_Parts:W25Q128JVEIQ"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U?"
+				(at -5.08 11.176 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "Package_SON:WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm"
+				(at -5.334 17.272 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "NOR Flash spiFlash, 3V, 128M-bit, 4Kb Uniform Sector"
+				(at -6.35 20.066 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "W25Q128JVEIQ_0_0"
+				(pin bidirectional line
+					(at -16.51 5.08 0)
+					(length 2.54)
+					(name "DI(IO0)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -16.51 -7.62 0)
+					(length 2.54)
+					(name "CLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 1.27 -11.43 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 3.81 -11.43 90)
+					(length 2.54)
+					(name "EP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "W25Q128JVEIQ_0_1"
+				(rectangle
+					(start -13.97 8.89)
+					(end 15.24 -8.89)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "W25Q128JVEIQ_1_0"
+				(pin bidirectional line
+					(at -16.51 2.54 0)
+					(length 2.54)
+					(name "DO(IO1)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 0 0)
+					(length 2.54)
+					(name "~{WP}(IO2)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -16.51 -2.54 0)
+					(length 2.54)
+					(name "~{RESET}(IO3)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -16.51 -5.08 0)
+					(length 2.54)
+					(name "~{CS}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 1.27 11.43 270)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(rectangle
+		(start 27.94 127.635)
+		(end 111.76 183.515)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 038227ce-d0ab-44c6-a9a0-62936feca194)
+	)
+	(text "QSPI INTERFACE"
+		(exclude_from_sim no)
+		(at 43.942 124.968 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "e65dc56b-2fde-4238-9549-8f4ef14453ce")
+	)
+	(symbol
+		(lib_id "FPGA_Parts:W25Q128JVEIQ")
+		(at 72.39 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "334e2515-ad02-492a-80b0-01c8b880764f")
+		(property "Reference" "U1"
+			(at 88.9 161.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 72.39 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_SON:WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm"
+			(at 67.056 144.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf"
+			(at 72.39 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "NOR Flash spiFlash, 3V, 128M-bit, 4Kb Uniform Sector"
+			(at 66.04 141.224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "d300fbfd-60b5-4229-a9f5-d4dbee954522")
+		)
+		(pin "6"
+			(uuid "e339cec3-30e9-48ad-8d87-3c2a3e9d319e")
+		)
+		(pin "4"
+			(uuid "5dec4f1c-ae74-4cd9-97a7-00399e09a1ef")
+		)
+		(pin "9"
+			(uuid "eb00765a-746f-431a-bf2b-20d8d065bfb9")
+		)
+		(pin "2"
+			(uuid "f96d4e78-d7d6-4cb7-9bd6-62df97c919f1")
+		)
+		(pin "3"
+			(uuid "f14568be-4d26-455c-a241-641de1bf6065")
+		)
+		(pin "7"
+			(uuid "f2e14f7e-eef3-4f6b-94c4-5069d7cbcdfc")
+		)
+		(pin "1"
+			(uuid "ff93cbb1-b834-4886-9e22-d5f7ed925bc7")
+		)
+		(pin "8"
+			(uuid "816c8219-034b-44ff-9877-b378f739c801")
+		)
+		(instances
+			(project ""
+				(path "/472f09b1-9eb3-4828-aa92-3f9176530a4e/4ea85d68-8c4c-427b-9eb6-b0d9011553b2"
+					(reference "U3")
+					(unit 1)
+				)
+				(path "/472f09b1-9eb3-4828-aa92-3f9176530a4e/f26963d8-433e-42e7-9d22-8132c2fbe320"
+					(reference "U2")
+					(unit 1)
+				)
+				(path "/472f09b1-9eb3-4828-aa92-3f9176530a4e/f4cd9e73-7905-4399-a63a-5ed548e75ca4"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
