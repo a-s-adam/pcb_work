@@ -349,6 +349,10 @@
 		)
 		(instances
 			(project "FPGA_Board"
+				(path "/472f09b1-9eb3-4828-aa92-3f9176530a4e/4ea85d68-8c4c-427b-9eb6-b0d9011553b2"
+					(reference "U1")
+					(unit 1)
+				)
 				(path "/472f09b1-9eb3-4828-aa92-3f9176530a4e/d494fb10-4a0a-40b4-82d1-ea046dfdb445"
 					(reference "U1")
 					(unit 1)
