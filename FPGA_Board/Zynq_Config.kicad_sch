@@ -275,7 +275,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "334e2515-ad02-492a-80b0-01c8b880764f")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 88.9 161.2899 0)
 			(effects
 				(font
@@ -321,36 +321,36 @@
 			)
 		)
 		(pin "5"
-			(uuid "3ecf4970-112d-464b-b1a2-a435201d7396")
+			(uuid "06b81859-fb71-4078-b73a-e2321f73cb94")
 		)
 		(pin "6"
-			(uuid "77dc5364-2dc5-41d9-bc07-45ef51a69837")
+			(uuid "31051997-1f47-4310-9647-f6a566753059")
 		)
 		(pin "4"
-			(uuid "9ef1210a-c7e7-4948-8e0d-2724d4ac92ae")
+			(uuid "ac95404e-88ac-44ed-a47a-b61f549ee666")
 		)
 		(pin "9"
-			(uuid "d04bd785-5686-475d-91df-098de70ad8c2")
+			(uuid "7c39bd0b-2a1c-45a5-8623-bddaca5ce64e")
 		)
 		(pin "2"
-			(uuid "c9f23b3b-4d06-4c0d-83bf-61ad8fb79c76")
+			(uuid "7433569d-8c0a-413d-8563-e911aac6ab46")
 		)
 		(pin "3"
-			(uuid "3afdfcb2-c9ed-48be-9976-b2f4d41920eb")
+			(uuid "e384d2b9-b906-4bc5-8e52-b2ffbcab9cad")
 		)
 		(pin "7"
-			(uuid "2e2ba9fd-d163-48d7-b82c-93a7c771b22a")
+			(uuid "cec00c20-306b-4ae2-84e2-998eaeb50347")
 		)
 		(pin "1"
-			(uuid "eee706fd-94e4-4838-a05a-f1bfa2b85229")
+			(uuid "fe1e510a-4cd5-4ebe-beba-6455685a0245")
 		)
 		(pin "8"
-			(uuid "8a9e24aa-1880-42f5-bea4-d8bbc397c090")
+			(uuid "7987d059-8126-4d03-aecf-441c27376cd5")
 		)
 		(instances
 			(project "FPGA_Board"
-				(path "/472f09b1-9eb3-4828-aa92-3f9176530a4e/1202234b-3398-4b70-bea7-fa7b5bc7f21a"
-					(reference "U1")
+				(path "/472f09b1-9eb3-4828-aa92-3f9176530a4e/a09a964b-ed9f-455d-a2b6-3b3670da4e94"
+					(reference "U2")
 					(unit 1)
 				)
 			)

@@ -415,15 +415,43 @@
     ],
     [
       "d494fb10-4a0a-40b4-82d1-ea046dfdb445",
-      "Power"
+      "Power [1]"
     ],
     [
-      "f26963d8-433e-42e7-9d22-8132c2fbe320",
-      "Zynq_Power"
+      "1202234b-3398-4b70-bea7-fa7b5bc7f21a",
+      "Zynq Power [2]"
     ],
     [
-      "4ea85d68-8c4c-427b-9eb6-b0d9011553b2",
-      "Zynq_Memory"
+      "a09a964b-ed9f-455d-a2b6-3b3670da4e94",
+      "Zynq Config [3]"
+    ],
+    [
+      "c6577211-fb3e-45d6-b58c-b701efeac00d",
+      "Zynq Processing System (PS) [4]"
+    ],
+    [
+      "7c13a0a2-ea72-4b60-a797-f8035eb610e8",
+      "Zynq Programmable Logic (PL) [5]"
+    ],
+    [
+      "0e29e682-803d-4cf8-be27-dc8fc190b4eb",
+      "Zynq DDR [6]"
+    ],
+    [
+      "404569be-c671-46d7-9e86-2db1b2045195",
+      "1GB DDR Modules [7]"
+    ],
+    [
+      "8754f6f1-d123-4c0c-8cf9-47e4509a3605",
+      "Gigabit Ethernet [8]"
+    ],
+    [
+      "ac379104-95db-458a-9169-b741367ebc54",
+      "USB 2.0 High-Speed OTG [9]"
+    ],
+    [
+      "96431787-b88c-488e-8b7c-d91e4e363ff0",
+      "Mezzanine Connectors [10]"
     ]
   ],
   "text_variables": {}
