@@ -22,4 +22,5 @@ FPGA_Board
 - AMD Zynq-7000 based board: https://docs.amd.com/v/u/en-US/zynq-7000-product-selection-guide [XC7Z010-2CLG400I]
 - Config Memory is determined by FPGA chosen: https://docs.amd.com/r/en-US/ug908-vivado-programming-debugging/Virtex-UltraScale-Configuration-Memory-Devices?tocId=SfnAO9Qdpk7bcqPQwSsYiQ
 - BGA Routing Application Manual: https://docs.amd.com/r/en-US/ug1099-bga-device-design-rules/Introduction
+- Stack-up Selection for Various Layer PCB's https://www.pcbway.com/multi-layer-laminated-structure.html
 - [Work in Progress]
