@@ -101,6 +101,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -439,6 +440,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -630,6 +632,18 @@
     [
       "0aff41c2-198e-4e85-9895-5033c629faf1",
       "Root"
+    ],
+    [
+      "8cac9192-29a7-4c85-b243-7e134a3da5be",
+      "MCU_MAIN"
+    ],
+    [
+      "aff8fe72-b4ed-4ec7-9aa5-d5201031be83",
+      "POWER"
+    ],
+    [
+      "3acc1df0-8a69-421d-8d75-593da6796653",
+      "CONNECTORS"
     ]
   ],
   "text_variables": {}
