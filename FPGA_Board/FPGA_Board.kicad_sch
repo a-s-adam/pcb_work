@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "472f09b1-9eb3-4828-aa92-3f9176530a4e")
 	(paper "A4")
 	(title_block
@@ -12,8 +12,8 @@
 	)
 	(lib_symbols)
 	(rectangle
-		(start 88.9 39.37)
-		(end 172.72 135.89)
+		(start 40.64 15.24)
+		(end 92.71 26.67)
 		(stroke
 			(width 0)
 			(type default)
@@ -21,11 +21,59 @@
 		(fill
 			(type none)
 		)
-		(uuid b98c06a5-4319-4ae7-962b-c8df85e1802e)
+		(uuid "00c85be3-f481-4a3f-a87c-94c61da0916f")
+	)
+	(rectangle
+		(start 59.69 144.78)
+		(end 121.92 189.23)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "2253e3c8-b781-4691-bbdc-3e5816a4cdcc")
+	)
+	(rectangle
+		(start 15.24 59.69)
+		(end 27.94 67.31)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "3c6b6bc0-a9bd-45fe-a9a2-2db76ca5e841")
+	)
+	(rectangle
+		(start 36.83 30.48)
+		(end 265.43 133.35)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "b98c06a5-4319-4ae7-962b-c8df85e1802e")
+	)
+	(rectangle
+		(start 268.478 79.756)
+		(end 283.718 87.376)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "cb709fdb-f604-497b-a80b-6739a453c334")
 	)
 	(text "USB-C"
 		(exclude_from_sim no)
-		(at 270.256 102.87 0)
+		(at 275.59 83.82 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -37,7 +85,7 @@
 	)
 	(text "USB HS PHY"
 		(exclude_from_sim no)
-		(at 217.678 101.346 0)
+		(at 229.108 54.356 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -49,7 +97,7 @@
 	)
 	(text "AMD/XILINX SoC\nXC7Z010-2CLG400-I"
 		(exclude_from_sim no)
-		(at 133.858 29.21 0)
+		(at 150.368 26.67 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -59,21 +107,9 @@
 		)
 		(uuid "3832aefd-e2f1-4de2-8bb0-a13e2cb2923b")
 	)
-	(text "DC BARREL"
+	(text "USB-C PROGRAMMING[3]"
 		(exclude_from_sim no)
-		(at 267.716 145.034 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-		)
-		(uuid "3b745fd8-e26e-4cd6-839e-ee1cbeedcd43")
-	)
-	(text "USB MICRO B [3]"
-		(exclude_from_sim no)
-		(at 216.916 24.638 0)
+		(at 66.548 20.828 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -85,7 +121,7 @@
 	)
 	(text "+1V0\n+1V35\n+1V8\n+3V3\nVTT"
 		(exclude_from_sim no)
-		(at 217.678 145.034 0)
+		(at 227.838 105.664 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -97,7 +133,7 @@
 	)
 	(text "512MB DDR3L MEMORY\n512MB DDR3L MEMORY"
 		(exclude_from_sim no)
-		(at 50.292 125.476 0)
+		(at 65.532 106.426 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -109,7 +145,7 @@
 	)
 	(text "RJ45"
 		(exclude_from_sim no)
-		(at 272.034 57.912 0)
+		(at 20.828 62.992 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -121,7 +157,7 @@
 	)
 	(text "eMMC Memory (4GB)\nFTDI, USB-UART/JTAG"
 		(exclude_from_sim no)
-		(at 119.38 70.612 0)
+		(at 135.89 68.072 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -133,17 +169,57 @@
 	)
 	(polyline
 		(pts
-			(xy 133.35 144.78) (xy 134.62 144.78)
+			(xy 248.92 57.15) (xy 257.81 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0892c0bb-08b2-4091-b138-e818d5b2a228")
+		(uuid "1fcb6b30-05be-44d0-8eb6-655c72f6b69e")
 	)
 	(polyline
 		(pts
-			(xy 74.93 124.46) (xy 96.52 124.46)
+			(xy 27.94 63.5) (xy 46.99 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20377dc7-bf98-47ad-8fe1-5ea90334d294")
+	)
+	(polyline
+		(pts
+			(xy 91.44 139.7) (xy 144.78 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d8bf8ba-f66c-4abb-83df-75e4661edb57")
+	)
+	(polyline
+		(pts
+			(xy 267.97 83.82) (xy 257.81 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "351e11b7-e67b-42bc-90a9-cbe7e09ce728")
+	)
+	(polyline
+		(pts
+			(xy 257.81 83.82) (xy 257.81 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4019829e-d1be-405b-8968-1ad760b3d55d")
+	)
+	(polyline
+		(pts
+			(xy 90.17 105.41) (xy 113.03 105.41)
 		)
 		(stroke
 			(width 0)
@@ -153,27 +229,17 @@
 	)
 	(polyline
 		(pts
-			(xy 175.26 24.13) (xy 198.12 24.13)
+			(xy 66.04 35.56) (xy 100.33 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "65a62a91-8d34-4c96-a734-4cbb5973b62f")
+		(uuid "6b095c04-fd98-4929-b5cf-96bd1a4e6aa7")
 	)
 	(polyline
 		(pts
-			(xy 168.91 106.68) (xy 168.91 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "695ad5ad-5b80-49e2-8f48-9cc3412d0cfe")
-	)
-	(polyline
-		(pts
-			(xy 165.1 72.39) (xy 165.1 73.66)
+			(xy 181.61 69.85) (xy 181.61 71.12)
 		)
 		(stroke
 			(width 0)
@@ -183,56 +249,76 @@
 	)
 	(polyline
 		(pts
-			(xy 168.91 133.35) (xy 133.35 133.35)
+			(xy 250.19 106.68) (xy 257.81 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a7caa55d-007e-4b15-a7ab-3a0a56b1d4bd")
+		(uuid "9eb351a0-5209-4628-99e9-c966850fd676")
 	)
 	(polyline
 		(pts
-			(xy 165.1 106.68) (xy 168.91 106.68)
+			(xy 100.33 35.56) (xy 100.33 68.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b224e279-89e0-4ff6-a547-f4cfacf072c0")
+		(uuid "b0146f41-4c20-48c9-84ca-f6c31e6e29f1")
 	)
 	(polyline
 		(pts
-			(xy 165.1 69.85) (xy 175.26 69.85)
+			(xy 257.81 83.82) (xy 257.81 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dcae3e6a-2db0-42b5-8935-7d4e37ff66cb")
+		(uuid "b0b35b41-46d8-4a94-9a9c-ab5ccd55600a")
 	)
 	(polyline
 		(pts
-			(xy 133.35 133.35) (xy 133.35 144.78)
+			(xy 66.04 26.67) (xy 66.04 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "df52603a-a74f-4fb8-8d88-e860661d5f1d")
+		(uuid "bd586a29-b180-4c9e-85b7-c12ba7f3fc30")
 	)
 	(polyline
 		(pts
-			(xy 175.26 69.85) (xy 175.26 24.13)
+			(xy 91.44 144.78) (xy 91.44 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e2ab8613-7b45-421d-a264-ae066852c46d")
+		(uuid "d860774a-cfb0-4d0c-96d0-479945d5fa10")
+	)
+	(polyline
+		(pts
+			(xy 144.78 125.73) (xy 144.78 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e68b5f95-f59b-4722-b1b9-6b4544059602")
+	)
+	(polyline
+		(pts
+			(xy 100.33 68.58) (xy 113.03 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6fbeca1-6fc9-4182-bc08-a769b87fa1ed")
 	)
 	(sheet
-		(at 96.52 120.65)
+		(at 113.03 100.33)
 		(size 67.31 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -244,11 +330,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "0e29e682-803d-4cf8-be27-dc8fc190b4eb")
 		(property "Sheetname" "Zynq DDR [6]"
-			(at 96.52 119.3034 0)
+			(at 113.03 98.9834 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -259,7 +347,9 @@
 			)
 		)
 		(property "Sheetfile" "Zynq_DDR.kicad_sch"
-			(at 96.52 130.1246 0)
+			(at 113.03 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -276,7 +366,7 @@
 		)
 	)
 	(sheet
-		(at 96.52 45.72)
+		(at 113.03 43.18)
 		(size 68.58 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -288,11 +378,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "1202234b-3398-4b70-bea7-fa7b5bc7f21a")
 		(property "Sheetname" "Zynq Power [2]"
-			(at 96.52 44.3734 0)
+			(at 113.03 41.8334 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -303,7 +395,9 @@
 			)
 		)
 		(property "Sheetfile" "Zynq_Power.kicad_sch"
-			(at 96.52 55.1946 0)
+			(at 113.03 52.6546 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -320,7 +414,7 @@
 		)
 	)
 	(sheet
-		(at 26.67 118.11)
+		(at 41.91 99.06)
 		(size 48.26 13.97)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -332,11 +426,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "404569be-c671-46d7-9e86-2db1b2045195")
 		(property "Sheetname" "1GB DDR Modules [7]"
-			(at 26.67 116.7634 0)
+			(at 41.91 97.7134 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -347,7 +443,9 @@
 			)
 		)
 		(property "Sheetfile" "DDR_Modules.kicad_sch"
-			(at 26.67 132.6646 0)
+			(at 41.91 113.6146 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -364,7 +462,7 @@
 		)
 	)
 	(sheet
-		(at 96.52 102.87)
+		(at 113.03 116.84)
 		(size 68.58 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -376,11 +474,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "7c13a0a2-ea72-4b60-a797-f8035eb610e8")
 		(property "Sheetname" "Zynq Programmable Logic (PL) [5]"
-			(at 96.52 101.5234 0)
+			(at 113.03 115.4934 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -391,7 +491,9 @@
 			)
 		)
 		(property "Sheetfile" "Zynq_PL.kicad_sch"
-			(at 96.52 112.3446 0)
+			(at 113.03 126.3146 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -408,7 +510,7 @@
 		)
 	)
 	(sheet
-		(at 200.66 41.91)
+		(at 46.99 48.26)
 		(size 39.37 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -420,11 +522,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "8754f6f1-d123-4c0c-8cf9-47e4509a3605")
 		(property "Sheetname" "Gigabit Ethernet [8]"
-			(at 200.66 41.1984 0)
+			(at 46.99 47.5484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -435,7 +539,9 @@
 			)
 		)
 		(property "Sheetfile" "Ethernet.kicad_sch"
-			(at 200.66 74.2446 0)
+			(at 46.99 80.5946 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -452,23 +558,24 @@
 		)
 	)
 	(sheet
-		(at 120.65 144.78)
+		(at 64.77 152.4)
 		(size 25.4 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "96431787-b88c-488e-8b7c-d91e4e363ff0")
 		(property "Sheetname" "Mezzanine Connectors [10]"
-			(at 120.65 144.0684 0)
+			(at 64.262 149.606 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -479,7 +586,9 @@
 			)
 		)
 		(property "Sheetfile" "Mezzanine_Connectors.kicad_sch"
-			(at 120.65 177.1146 0)
+			(at 64.77 184.7346 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -496,7 +605,7 @@
 		)
 	)
 	(sheet
-		(at 96.52 64.77)
+		(at 113.03 62.23)
 		(size 68.58 11.43)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -508,11 +617,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "a09a964b-ed9f-455d-a2b6-3b3670da4e94")
 		(property "Sheetname" "Zynq Config [3]"
-			(at 96.52 63.4234 0)
+			(at 113.03 60.8834 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -523,7 +634,9 @@
 			)
 		)
 		(property "Sheetfile" "Zynq_Config.kicad_sch"
-			(at 96.52 76.7846 0)
+			(at 113.03 74.2446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -540,7 +653,7 @@
 		)
 	)
 	(sheet
-		(at 199.39 86.36)
+		(at 209.55 40.64)
 		(size 39.37 31.75)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -552,11 +665,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "ac379104-95db-458a-9169-b741367ebc54")
-		(property "Sheetname" "USB 2.0 High-Speed OTG [9]"
-			(at 199.39 85.6484 0)
+		(property "Sheetname" "USB 3.0 High-Speed OTG [9]"
+			(at 209.55 39.2934 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -567,7 +682,9 @@
 			)
 		)
 		(property "Sheetfile" "USB.kicad_sch"
-			(at 199.39 118.6946 0)
+			(at 209.55 72.9746 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -584,7 +701,7 @@
 		)
 	)
 	(sheet
-		(at 96.52 85.09)
+		(at 113.03 82.55)
 		(size 68.58 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -596,11 +713,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "c6577211-fb3e-45d6-b58c-b701efeac00d")
 		(property "Sheetname" "Zynq Processing System (PS) [4]"
-			(at 96.52 83.7434 0)
+			(at 113.03 81.2034 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -611,7 +730,9 @@
 			)
 		)
 		(property "Sheetfile" "Zynq_PS.kicad_sch"
-			(at 96.52 94.5646 0)
+			(at 113.03 92.0246 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -628,7 +749,7 @@
 		)
 	)
 	(sheet
-		(at 199.39 129.54)
+		(at 209.55 90.17)
 		(size 40.005 31.115)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -640,11 +761,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "d494fb10-4a0a-40b4-82d1-ea046dfdb445")
 		(property "Sheetname" "Power [1]"
-			(at 199.39 128.8284 0)
+			(at 209.55 89.4584 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -655,7 +778,9 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 199.39 161.2396 0)
+			(at 209.55 121.8696 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
