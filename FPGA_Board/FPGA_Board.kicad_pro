@@ -463,7 +463,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "FPGA_Parts"
+    ]
   },
   "meta": {
     "filename": "FPGA_Board.kicad_pro",
@@ -638,7 +640,7 @@
         "uuid": "472f09b1-9eb3-4828-aa92-3f9176530a4e"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1",
     "variants": []
   },
   "sheets": [
