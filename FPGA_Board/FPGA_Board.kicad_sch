@@ -668,7 +668,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "ac379104-95db-458a-9169-b741367ebc54")
-		(property "Sheetname" "USB 3.0 High-Speed OTG [9]"
+		(property "Sheetname" "USB 2.0 High-Speed OTG [9]"
 			(at 209.55 39.2934 0)
 			(show_name no)
 			(do_not_autoplace no)

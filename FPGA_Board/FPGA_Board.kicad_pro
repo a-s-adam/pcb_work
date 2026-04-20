@@ -640,7 +640,7 @@
         "uuid": "472f09b1-9eb3-4828-aa92-3f9176530a4e"
       }
     ],
-    "used_designators": "U1",
+    "used_designators": "U1,R1-3,J1-2,#PWR1-4,D1",
     "variants": []
   },
   "sheets": [
@@ -682,7 +682,7 @@
     ],
     [
       "ac379104-95db-458a-9169-b741367ebc54",
-      "USB 3.0 High-Speed OTG [9]"
+      "USB 2.0 High-Speed OTG [9]"
     ],
     [
       "96431787-b88c-488e-8b7c-d91e4e363ff0",
