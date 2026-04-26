@@ -2,10 +2,7 @@ Working with JDM product development structures, it's hard to get full exposure 
 
 
 dev_board
-ATMEGA
-- ATMEGA32L8A : http://ww1.microchip.com/downloads/en/DeviceDoc/doc2503.pdf
-- Info on Pi Filter (used to filter 3.3V for analog components : https://resources.altium.com/p/pi-filter-circuit-design-formulas-and-calculator 
-- JTAG pinout Overview: https://www.xjtag.com/about-jtag/jtag-a-technical-overview/
+- Working to redefine scope of this board; originally it was ATMEGA which is less common in production boards, so I'm exploring ESP32 based system to make an IoT mesh network.
 - [Work in Progress]
 
 MixSigBoard
