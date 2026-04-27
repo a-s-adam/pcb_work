@@ -18,7 +18,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "U5"
-				(at 20.32 6.35 0)
+				(at 15.24 6.604 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -28,7 +28,7 @@
 				)
 			)
 			(property "Value" "XC7Z010-2CLG400I"
-				(at 20.32 2.54 0)
+				(at 15.494 2.794 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -7891,7 +7891,7 @@
 		(fields_autoplaced yes)
 		(uuid "04c014c4-bd38-49cc-93f2-2f1b58930506")
 		(property "Reference" "U5"
-			(at 86.36 26.67 0)
+			(at 81.28 26.416 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7901,7 +7901,7 @@
 			)
 		)
 		(property "Value" "XC7Z010-2CLG400I"
-			(at 86.36 30.48 0)
+			(at 81.534 30.226 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
